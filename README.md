@@ -1,1 +1,1 @@
-# RepoProyectoSistemas2-SpaKnino-s
+# RepoProyectoSistemas2-SpaKnino's
